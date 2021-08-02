@@ -15,7 +15,7 @@ With the increasing use of social media sites, a large amount of data has been g
 
 ## Motivation
 
-Considering the increasing demand of social media giants, the importance of the information shared on that platforms is getting increasing day by day. Twitter has a large number of reputed accounts which share informative tweets and users are giving their sentiment by replying to tweets. Due to a large amount of data, manual inspection of each tweet is getting harder. So the proposed approach can eliminate the manual analysis of sentiment of Twitter data. 
+Considering the increasing demand of social media giants, the importance of the information shared on that platforms is getting increasing day by day. In the last few years, Twitter has outshined all other microblogging services in terms of popularity. As per the current [report of Q1](https://www.businessofapps.com/data/twitter-statistics/) 2021, it has 199 million average daily active users. And it has an average of [500 million](https://www.oberlo.in/blog/twitter-statistics) tweets per day. So, Twitter has become a great source of information to analyze the review on a particular topic, event, or product. Twitter has a large number of reputed accounts which share informative tweets and users are giving their sentiment by replying to tweets. Due to a large amount of data, manual inspection of each tweet is getting harder. So the proposed approach can eliminate the manual analysis of sentiment of Twitter data. 
 
 ## Data
 
