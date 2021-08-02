@@ -8,6 +8,7 @@
 2. [Motivation](#motivation)
 3. [Data](#data)
 4. [Dependency](#dependency) 
+5. [Result](#result)
 
 ## Overview
 
@@ -19,18 +20,41 @@ Considering the increasing demand of social media giants, the importance of the 
 
 ## Data
 
-To experiment the model I have considered **Sentiment140 dataset with 1.6 million tweets** dataset which is publicly available on **Kaggle**.
+To experiment the model I have considered **"Sentiment140 dataset with 1.6 million tweets"** dataset which is publicly available on _**Kaggle**_.
 
 Link: https://www.kaggle.com/kazanova/sentiment140
 
 Dataset has contains following 6 fields:
 
-1. **target**: the polarity of the tweet (*0* = negative, *2* = neutral, *4* = positive)
-2. **ids**: The id of the tweet ( *2087*)
-3. **date**: the date of the tweet (*Sat May 16 23:58:44 UTC 2009*)
-4. **flag**: The query (*lyx*). If there is no query, then this value is NO_QUERY.
-5. **user**: the user that tweeted (*robotickilldozr*)
-6. **text**: the text of the tweet (*Lyx is cool*)
+1. **target**: Polarity of the tweet (*0* = negative, *2* = neutral, *4* = positive)
+2. **ids**: Id of the tweet
+3. **date**: Creation date of the tweet
+4. **flag**: Query (*lyx*). If there is no query, then this value is NO_QUERY.
+5. **user**: User that tweeted (*robotickilldozr*)
+6. **text**: Text or Body of the tweet (*Lyx is cool*)
+
+
+
+# Dependency
+
+This project is built in Python. Mentioned below are the required libraries:
+
+```
+numpy
+pandas
+re
+nltk
+sklearn
+matplotlib
+seaborn
+```
+
+
+
+
+# Result 
+
+
 
 # note:
 
