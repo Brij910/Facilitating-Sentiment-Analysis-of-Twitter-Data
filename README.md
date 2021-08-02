@@ -26,15 +26,11 @@ the consideration of semantic features of tweets. This feature
 connects an entity with its semantic concept. Additionally, this
 study also reveals the accuracy difference for two conditions:
 considering stop-words and emoticons, removing the stop-words
-and emoticons.
+and emoticons.    
 
 ## Motivation
 
-bjuhdgwhdbwd
-
-wsvcuhwhwcbw
-
-djbhwwhduwhc
+jhcbeuchbeufbecbuefbjebcubkbefucbu
 
 ## Data
 
