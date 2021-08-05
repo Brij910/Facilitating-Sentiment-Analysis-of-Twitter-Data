@@ -2,6 +2,10 @@
 
 
 
+# Sentiment Analysis
+
+![](Sentiment Analysis.gif)
+
 ## Table of Content:
 
 1. [Overview](#overview)
