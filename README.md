@@ -39,15 +39,15 @@ Dataset has contains following 6 fields:
 
 ## Dataset Sample:
 
-![Data](C:\Users\Brij\Desktop\Facilitating-Sentiment-Analysis-of-Twitter-Data\Data-Sample.png)
+![Data](Data-Sample.png)
 
 **Word cloud of Positive Tweets**
 
-![Positive Words](Facilitating-Sentiment-Analysis-of-Twitter-Data\Positive-Words.png)
+![Positive Words](Positive-Words.png)
 
 **Word cloud of Negative Tweets**
 
-![Negative Words](Facilitating-Sentiment-Analysis-of-Twitter-Data\Negative-Words.png)
+![Negative Words](Negative-Words.png)
 
 
 
