@@ -33,6 +33,14 @@ Dataset has contains following 6 fields:
 5. **user**: User that tweeted (*robotickilldozr*)
 6. **text**: Text or Body of the tweet (*Lyx is cool*)
 
+**Word cloud of Positive Tweets**
+
+![Positive Words](C:\Users\Brij\Desktop\Facilitating-Sentiment-Analysis-of-Twitter-Data\Positive-Words.png)
+
+**Word cloud of Negative Tweets**
+
+![Negative Words](C:\Users\Brij\Desktop\Facilitating-Sentiment-Analysis-of-Twitter-Data\Negative-Words.png)
+
 
 
 # Dependency
