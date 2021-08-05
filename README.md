@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ./
+---
+
 # Facilitating-Sentiment-Analysis-of-Twitter-Data
 
 
@@ -33,13 +37,17 @@ Dataset has contains following 6 fields:
 5. **user**: User that tweeted (*robotickilldozr*)
 6. **text**: Text or Body of the tweet (*Lyx is cool*)
 
+## Dataset Sample:
+
+![Data](C:\Users\Brij\Desktop\Facilitating-Sentiment-Analysis-of-Twitter-Data\Data-Sample.png)
+
 **Word cloud of Positive Tweets**
 
-![Positive Words](C:\Users\Brij\Desktop\Facilitating-Sentiment-Analysis-of-Twitter-Data\Positive-Words.png)
+![Positive Words](Facilitating-Sentiment-Analysis-of-Twitter-Data\Positive-Words.png)
 
 **Word cloud of Negative Tweets**
 
-![Negative Words](C:\Users\Brij\Desktop\Facilitating-Sentiment-Analysis-of-Twitter-Data\Negative-Words.png)
+![Negative Words](Facilitating-Sentiment-Analysis-of-Twitter-Data\Negative-Words.png)
 
 
 
