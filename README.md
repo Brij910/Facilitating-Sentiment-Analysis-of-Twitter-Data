@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ./
----
-
 # Facilitating-Sentiment-Analysis-of-Twitter-Data
 
 
