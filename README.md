@@ -4,7 +4,7 @@
 
 # Sentiment Analysis
 
-![](Sentiment Analysis.gif)
+!["Sentiment Analysis"](Sentiment Analysis.gif)
 
 ## Table of Content:
 
