@@ -56,13 +56,29 @@ Dataset has contains following 6 fields:
 This project is built in Python. Mentioned below are the required libraries:
 
 ```
-numpy
-pandas
-re
-nltk
-sklearn
-matplotlib
-seaborn
+import numpy as np 
+import pandas as pd 
+import os
+```
+
+``` 
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+import re
+import nltk
+from nltk.corpus import stopwords
+from nltk.stem.porter import PorterStemmer
+from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.stem.wordnet import WordNetLemmatizer
+import string
+
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import cross_val_score, GridSearchCV
+from sklearn.metrics import confusion_matrix, classification_report, accuracy_score, f1_score
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+from sklearn.pipeline import Pipeline
 ```
 
 
