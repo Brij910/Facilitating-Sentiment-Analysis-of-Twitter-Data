@@ -55,13 +55,13 @@ Dataset has contains following 6 fields:
 
 This project is built in Python. Mentioned below are the required libraries:
 
-```
+```python
 import numpy as np 
 import pandas as pd 
 import os
 ```
 
-``` 
+``` python
 import matplotlib.pyplot as plt
 import seaborn as sns
 
