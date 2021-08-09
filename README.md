@@ -62,21 +62,26 @@ import os
 ```
 
 ``` python
-import matplotlib.pyplot as plt
-import seaborn as sns
-
+import string
 import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
-import string
 
+import matplotlib.pyplot as plt
+import seaborn as sns
+from wordcloud import WordCloud, STOPWORDS
+```
+
+```python
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score, GridSearchCV
 from sklearn.metrics import confusion_matrix, classification_report, accuracy_score, f1_score
 from sklearn.naive_bayes import MultinomialNB
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 from sklearn.pipeline import Pipeline
 ```
@@ -86,7 +91,13 @@ from sklearn.pipeline import Pipeline
 
 # Result 
 
+**Sentiment Analysis - Removing Stop Words**
 
+![Sentiment Analysis - Removing Stop Words](Final-Result-1.png)
+
+**Sentiment Analysis - With Stop Words**
+
+![Sentiment Analysis - With Stop Words](Final-Result-2.png)
 
 # note:
 
