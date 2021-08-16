@@ -11,8 +11,10 @@
 1. [Overview](#overview)
 2. [Motivation](#motivation)
 3. [Data](#data)
-4. [Libraries Imported](#libraries imported) 
-5. [Result](#result)
+4. [Installation](#intallation)
+5. [Libraries Imported](#libraries) 
+6. [Result](#result)
+7. [Future work](#future-work)
 
 ## Overview
 
@@ -87,7 +89,7 @@ For the installation of jupyter notebook, [click hear](https://test-jupyter.read
 
   
 
-# Libraries Imported
+# Libraries
 
 This project is built in Python. Mentioned below are the required libraries:
 
@@ -134,6 +136,10 @@ from sklearn.pipeline import Pipeline
 **Sentiment Analysis - With Stop Words**
 
 ![Sentiment Analysis - With Stop Words](Images/Final-Result-2.png)
+
+# Future-work
+
+
 
 # Note:
 
