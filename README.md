@@ -1,6 +1,6 @@
 # Facilitating-Sentiment-Analysis-of-Twitter-Data
 
-Author: Brij Patel ![preview badge](https://img.shields.io/twitter/follow/brij9898?style=social) ![preview badge](https://img.shields.io/github/followers/Brij910?style=social)
+**Author: Brij Patel** ![preview badge](https://img.shields.io/twitter/follow/brij9898?style=social) ![preview badge](https://img.shields.io/github/followers/Brij910?style=social)
 
 # Sentiment Analysis
 
