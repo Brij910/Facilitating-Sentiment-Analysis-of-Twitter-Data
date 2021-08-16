@@ -137,7 +137,7 @@ from sklearn.pipeline import Pipeline
 
 ![Sentiment Analysis - With Stop Words](Images/Final-Result-2.png)
 
-# Future-work
+# Future work
 
 
 
