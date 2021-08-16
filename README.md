@@ -148,6 +148,8 @@ I have implemented this model by using 4 different machine learning techniques a
 
 ![Sentiment Analysis - With Stop Words](Images/Final-Result-2.png)
 
+More detailed results can be found in code [research-1](Research-1(Removing Stop-words).ipynb) or [research-2](Research-2(Without Removing Stop-words).ipynb) and different result's tables are available in [Images](Images) section of repository.
+
 ## Future Work
 
 * In the future, I would like to add emoticons analysis in this project because emoticons can identify the overall sentiment of the tweet.
