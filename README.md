@@ -11,14 +11,12 @@
 1. [Overview](#overview)
 2. [Motivation](#motivation)
 3. [Data](#data)
-4. [Dependency](#dependency) 
+4. [Libraries Imported](#librariesimported) 
 5. [Result](#result)
 
 ## Overview
 
 With the increasing use of social media sites, a large amount of data has been generated from these sites. A huge number of users share lots of tweets and information related to current topics and opinions every day. Sentiment analysis of Twitter can be used as a quick and easy tool to track public perceptions about an organization’s brand, business and other topics. Twitter has a short message system that leads to the use of informal words to express the feeling or emotions for specific topics. Because of this, an improvement in the process of analyzing Twitter data must be done. In this study, I have decided to implement a supervised machine learning approach with the consideration of semantic features of tweets. This feature connects an entity with its semantic concept. Additionally, this study also reveals the accuracy difference for two conditions: considering stop-words and emoticons, removing the stop-words and emoticons.
-
-<img src="Images/methodology.png" alt="Methodology" style="zoom:10%;" />
 
 ## Motivation
 
@@ -55,7 +53,41 @@ Dataset has contains following 6 fields:
 
 
 
-# Dependency
+# Installation
+
+I have completed my whole project in jupyter which is available on the internet and anyone can run this project in jupyter.
+
+For the installation of jupyter notebook, [click hear](https://test-jupyter.readthedocs.io/en/latest/install.html) and follow the instruction stated below:
+
+**Installing jupyter by anaconda**
+
+* Download Anaconda 
+
+* Install anaconda
+
+* Run the notebook in command line
+
+  ```
+  jupyter notebook
+  ```
+
+**Installing jupyter by pip**
+
+* For existing python user jupyter can be installed by pip. Firstly, upgrade pip by following command:
+
+  ``` 
+  pip3 install --upgrade pip
+  ```
+
+* Install jupyter notebook
+
+  ```
+  pip3 install jupyter
+  ```
+
+  
+
+# Libraries Imported
 
 This project is built in Python. Mentioned below are the required libraries:
 
@@ -103,41 +135,7 @@ from sklearn.pipeline import Pipeline
 
 ![Sentiment Analysis - With Stop Words](Images/Final-Result-2.png)
 
-# note:
-
-#- for heading 
-
-Shift + enter- newline
-
-_ _ - Italic
-
-** ** - Bold
-
-_ ** ** _  - bold and italic
-
-~~ ~~ - strike threw
-
-:p: - emoji
-
-##- subheading
-
-''' - embedding code
-
-[" "]  (link) -     link
-
-Image: 
-
-​		![python] (url)
-
-​		![python] (path)	
-
-List:
-
-table of content:
-
-1. [style] (#style-examples)
+# Note:
 
 
-
-Shields.io - For badges
 
