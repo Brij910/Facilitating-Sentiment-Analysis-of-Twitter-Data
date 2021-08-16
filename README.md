@@ -4,7 +4,7 @@
 
 # Sentiment Analysis
 
-!["Sentiment Analysis"](Sentiment-Analysis.gif)
+!["Sentiment Analysis"](Images/Sentiment-Analysis.gif)
 
 ## Table of Content:
 
@@ -18,9 +18,13 @@
 
 With the increasing use of social media sites, a large amount of data has been generated from these sites. A huge number of users share lots of tweets and information related to current topics and opinions every day. Sentiment analysis of Twitter can be used as a quick and easy tool to track public perceptions about an organization’s brand, business and other topics. Twitter has a short message system that leads to the use of informal words to express the feeling or emotions for specific topics. Because of this, an improvement in the process of analyzing Twitter data must be done. In this study, I have decided to implement a supervised machine learning approach with the consideration of semantic features of tweets. This feature connects an entity with its semantic concept. Additionally, this study also reveals the accuracy difference for two conditions: considering stop-words and emoticons, removing the stop-words and emoticons.
 
+<img src="Images/methodology.png" alt="Methodology" style="zoom:50%;" />
+
 ## Motivation
 
 Considering the increasing demand of social media giants, the importance of the information shared on that platforms is getting increasing day by day. In the last few years, Twitter has outshined all other microblogging services in terms of popularity. As per the current [report of Q1](https://www.businessofapps.com/data/twitter-statistics/) 2021, it has 199 million average daily active users. And it has an average of [500 million](https://www.oberlo.in/blog/twitter-statistics) tweets per day. So, Twitter has become a great source of information to analyze the review on a particular topic, event, or product. Twitter has a large number of reputed accounts which share informative tweets and users are giving their sentiment by replying to tweets. Due to a large amount of data, manual inspection of each tweet is getting harder. So the proposed approach can eliminate the manual analysis of sentiment of Twitter data. 
+
+
 
 ## Data
 
@@ -39,15 +43,15 @@ Dataset has contains following 6 fields:
 
 ## Dataset Sample:
 
-![Data](Data-Sample.png)
+![Data](Images/Data-Sample.png)
 
 **Word cloud of Positive Tweets**
 
-![Positive Words](Positive-Words.png)
+![Positive Words](Images/Positive-Words.png)
 
 **Word cloud of Negative Tweets**
 
-![Negative Words](Negative-Words.png)
+![Negative Words](Images/Negative-Words.png)
 
 
 
@@ -93,11 +97,11 @@ from sklearn.pipeline import Pipeline
 
 **Sentiment Analysis - Removing Stop Words**
 
-![Sentiment Analysis - Removing Stop Words](Final-Result-1.png)
+![Sentiment Analysis - Removing Stop Words](Images/Final-Result-1.png)
 
 **Sentiment Analysis - With Stop Words**
 
-![Sentiment Analysis - With Stop Words](Final-Result-2.png)
+![Sentiment Analysis - With Stop Words](Images/Final-Result-2.png)
 
 # note:
 
