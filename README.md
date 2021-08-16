@@ -155,8 +155,12 @@ I have implemented this model by using 4 different machine learning techniques a
 
 ## Note
 
-I have implemented this model by my own with taking reference of Github repository. [Sentimental_Semantic_Analysis](https://github.com/Nikhil612/Sentimental_Semantic_Analysis)
+I have implemented this model by my own with taking reference of Github repository.
+
+[Sentimental_Semantic_Analysis](https://github.com/Nikhil612/Sentimental_Semantic_Analysis)
 
 ## Contact 
 
-**Feel free to reach out to me if you have any suggestions or additions you want to add to the project.**
+Please contact me if you have any suggestions or any query regarding to project.
+
+Email: [Brij Patel](mailto:bpatel34@lakeheadu.ca?subject=[GitHub]%20Source%20Han%20Sans)
