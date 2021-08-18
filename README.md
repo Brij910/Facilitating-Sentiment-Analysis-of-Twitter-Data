@@ -192,4 +192,5 @@ I have implemented this model by my own with taking reference of Github reposito
 
 Please contact me if you have any suggestion or any query regarding to project.
 
-Email: [Brij Patel](mailto:bpatel34@lakeheadu.ca?subject=[GitHub]%20Source%20Han%20Sans)
+Email: [Brij Patel](mailto:bpatel34@lakeheadu.ca?subject=[GitHub]%20Source%20Han%20Sans) [:email:](mailto:bpatel34@lakeheadu.ca?subject=[GitHub]%20Source%20Han%20Sans)
+
